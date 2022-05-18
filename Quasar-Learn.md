@@ -135,5 +135,6 @@ npm i -g @quasar/cli
 + [quasar 简介](https://blog.csdn.net/BDawn/article/details/102477936)
 + [quasar 参考文档 ](https://www.cnblogs.com/q1104460935/p/15663108.html) 👍
 + [quasar-cli项目创建](https://blog.csdn.net/web_monkey888/article/details/119803934) 👍
-+ 
++ [quasar使用记录-安装配置](https://zhuanlan.zhihu.com/p/363921765)
++ https://www.yuque.com/fictiony/cs6lwq/nzrxtl
 
