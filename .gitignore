@@ -1,0 +1,10 @@
+.DS_Store
+.obsidian
+eg-code/
+*.mov
+*.mp4
+pathBook.md
+# 依赖
+node_modules
+libs/
+dist/
