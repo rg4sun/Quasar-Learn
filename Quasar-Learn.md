@@ -1361,6 +1361,8 @@ export default {
 
 反正，如果遇到加载资源的问题，优先考虑是不是 webpack 打包导致的，试试  `require('./relative/path/to/file.jpg'）` 能不能解决
 
+> 注意，require是 CJS 语法， Webpack 打包构建时支持，如果是由 Vite 打包构建，则是不支持 require 这个方法的，因为 Vite 是 ESM 语法
+
 
 
 ## Quasar App 启动流程

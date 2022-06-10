@@ -50,3 +50,10 @@ git 代理先不配置
 
 这样直接不用无线网络卡就好了
 
+
+
+## 关于 Google
+
+公司网络是可以访问 google 的，但是这几天突然不行了，问 Stacy，他说输这个 `www.google.com/ncr` 然后自动会跳到 `www.google.com`
+
+事实上，输一次之后，就正常输入google 就可以访问了
